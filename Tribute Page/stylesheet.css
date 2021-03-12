@@ -1,0 +1,99 @@
+#whole-body{
+	font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #333;
+    background-color: #eee;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+
+
+#h1
+{
+	padding-top: 2px;
+	margin-top: -20px;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+
+#dob
+{
+	margin-top: -40px;
+	padding-bottom: -10px;
+	font-size: 1.2rem;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+
+#image1-1
+{
+	background-color: white;
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-top: 40px;
+}
+
+#image1-2
+{
+	padding: 50px 0px 0px 0px;
+}
+
+#quote
+{
+	margin-top: -15px;
+	padding-bottom: 5px;
+}
+
+#right
+{
+	text-align: center; 
+}
+
+#about
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	text-align: left;
+	background-color: #FFF675;
+	margin-top: 70px;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+
+#body-article
+{
+	padding:0px 120px 30px 120px;
+
+}
+
+#body-heading
+{
+	font-size: 40px;
+	text-align: center;
+	font-family: 'Bebas Neue', cursive;
+	padding-top: 10px;
+}
+
+#body-points
+{
+	margin-top: -20px;
+}
+
+.list .bold {
+	list-style-type: square;
+}
+
+#image2-1
+{
+	padding-top: 80px;
+}
+
+#image2-quote
+{
+	margin-top: -30px;
+}
+
+#footer
+{
+	background-color: black;
+	color: white;
+	height: 40px;
+}
