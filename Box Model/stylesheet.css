@@ -1,4 +1,4 @@
-#box1-1{
+/*#box1-1{
 	height: 400px;
 	width: 400px;
 	background-color: green;
@@ -88,8 +88,7 @@ padding: 50px 50px 50px 40px;
 }
 
 #box4-1{
-	height: 400px;
-	width: 400px;
+	
 	background-color: blue;
 	border:yellow 4px solid;
 	margin: 20px 0px 20px 0px;
@@ -100,20 +99,61 @@ padding: 50px 50px 50px 40px;
 
 #box4-2{
 	height: 300px;
-	width: 300px;
 	background-color:#0a3ca6 ;
 	border:yellow 4px solid;
-	margin:40px 0px 0px 40px;
+	margin: 0 10% 20px 10%;
 
 
 }
 
 #box4-3{
 	height: 200px;
-width:200px;
 background-color: #038199;
 border:yellow 4px solid;
-margin:40px 0px 0px 40px;
+margin: 5% 10%  5% 10%;
 
+
+
+}
+#box4-5{
+	background-color: yellow;
+	height: 300px;
+	width: 50%;
+	margin-top: 10%;
+}
+
+#box4-4{
+	height: 300px;
+	width: 50%;
+	background-color: white;
+	margin-left: 40%;
+	display: inline-block;
+	margin-left: 50%;
+	margin-top: -500px;
+}*/
+body{
+	margin: 0;
+}
+#box1
+{
+width: 50%;
+height: 300px;
+display: inline-block;
+background-color: yellow;
+}
+#box2
+{
+width: 49.7%;
+display: inline-block;
+height:300px;
+background-color: orange;
+
+}
+#box3
+{
+	width: 100%;
+	display: inline-block;
+	height:300px;
+	background-color: red;
 
 }

@@ -1,0 +1,15 @@
+body{
+	background-color: blue;
+}
+
+#form-heading{
+	text-align: center;
+}
+
+#form-body{
+	background-color: yellow;
+	margin-left: 20%;
+	margin-right: 20%;
+	text-align: center;
+	border-radius: 20px;
+}
