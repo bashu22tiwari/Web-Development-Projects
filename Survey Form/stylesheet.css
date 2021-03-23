@@ -1,15 +1,48 @@
-body{
-	background-color: blue;
+body
+{
+	margin:0;
+	
+	 background-color: #a9d7e9;
 }
 
 #form-heading{
 	text-align: center;
+	font-family: 'Anton', sans-serif;
+	font-weight: 300;
 }
 
-#form-body{
-	background-color: yellow;
-	margin-left: 20%;
-	margin-right: 20%;
+#form-body
+{
+	background-color: #f3f3f9;
 	text-align: center;
-	border-radius: 20px;
+	width:60%;
+	margin:auto;
+	font-family: 'Bitter', serif;
+	border-style: solid;
+	border-radius: 30px;
+	border-color: black;
+}
+
+
+.labels{
+	margin-left: 20px;
+	display:inline-block;
+	width: 40%;
+	text-align: right;
+	border:3px solid black;
+	vertical-align: middle;
+}
+
+.input-fields{
+	margin-left: 10px;
+	display: inline-block;
+	width: 40%;
+	text-align: left;
+	border:3px solid black;
+
+}
+
+#form-rows{
+	margin:20px 0px 20px 0px;
+	border:3px solid black;
 }
